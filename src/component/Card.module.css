@@ -1,0 +1,36 @@
+.container{
+    margin: 10px;
+    background-color: #ededed;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 5px 5px 10px #63a3b0;
+}
+.container img{
+    width: 300px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.container h3{
+    color: #696969;
+    margin: 30px 20px 20px;
+}
+
+.container p{
+    margin: 0 25px 20px;
+    background-color: #348899;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color: #fff;
+}

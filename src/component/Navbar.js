@@ -12,7 +12,7 @@ const Navbar = () => {
           <li>About Us</li>
         </ul>
       </div>
-      <div className={styles.logo}>
+      <div >
         <img className={styles.logo} src={logo} alt = "logo" />
       </div>
     </header>
