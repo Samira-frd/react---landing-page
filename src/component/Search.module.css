@@ -1,0 +1,29 @@
+.container{
+    background-color: #3f91a2;
+    padding: 80px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container p{
+    font-size: 4rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.container input{
+    width: 25%;
+    height: 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.container input::placeholder{
+    font-size: 1rem;
+}

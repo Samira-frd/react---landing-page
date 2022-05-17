@@ -28,3 +28,12 @@
     color: #008AA7;
     font-weight: bold;
 }
+
+@media screen and (max-width: 900px) {
+    .textContainer p {
+      display: none;
+    }
+    .textContainer h1{
+        font-size: 4rem;
+    }
+  }
