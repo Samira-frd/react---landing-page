@@ -29,7 +29,7 @@
     font-weight: bold;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 912px) {
     .textContainer p {
       display: none;
     }

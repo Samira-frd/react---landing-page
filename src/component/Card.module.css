@@ -34,3 +34,34 @@
     -o-border-radius: 5px;
     color: #fff;
 }
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px dashed #348899;
+}
+
+.counter img{
+    width: 30px;
+    padding: 30px;
+    cursor: pointer;
+    
+}
+
+
+.counter span{
+    background-color: #348899;
+    padding: 5px 20px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    color: #ededed;
+    font-size: 1.2rem;
+}
+
+.deactive{
+    opacity: 0.3;
+}
